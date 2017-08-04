@@ -20,7 +20,7 @@ Change them to test different scenarios.
 
 ## PoC Limitations
 
-1. You should have `rows` and `cols` properties declared.
+1. You should have `width`, `height`, `rows` and `cols` properties declared.
 2. Only one `*` per `columnsWidth`/`columnsHeight` could be used.
 3. Resizing the window is not supported.
 
