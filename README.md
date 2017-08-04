@@ -10,6 +10,14 @@ Introduced two new properties to the `gridLayout` object: `columnsWidth` and `co
 
 In order to start the sample get the repo and open __sample.html__.
 
+In __sample.html__ you will find the new properties defined:
+```javascript
+columnsHeight: ["20%", "*", "100px"],
+columnsWidth: ["20%", "100px", "*"]
+ ```
+ 
+Change them to test different scenarios.
+
 ## PoC Limitations
 
 1. You should have `rows` and `cols` properties declared.
