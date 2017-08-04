@@ -1,0 +1,21 @@
+.red-bk {
+    background-color: red;
+}
+
+.blue-bk {
+    background-color: blue;
+}
+
+.orange-bk {
+    background-color: orange;
+}
+
+.yellow-bk {
+    background-color: yellow;
+}
+
+.layout-manager-item {
+    font-size: 30px;
+    height: 100%;
+    width: 100%;
+}
